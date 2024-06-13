@@ -57,3 +57,6 @@ print(tb4[2])   --nil
 for k, v in pairs(tb4) do
     print("tb4 " .. k .. " - " .. v)
 end
+
+--method in table
+--concat、sort、insert、remove

@@ -18,7 +18,7 @@ Student = {
     func_inner = function()
         print(self.m_age)
         print(self.m_name)
-    end
+    end,
 }
 
 --↓↓↓ 语法糖 Student.func_getter(Student)
